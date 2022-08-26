@@ -1,2 +1,3 @@
 First commit
 Added a new feature!
+Addded feature #2
